@@ -1,0 +1,33 @@
+.ex3-card {
+  background: white;
+  padding: 30px;
+  border-radius: 16px;
+  width: 500px;
+  text-align: center;
+  box-shadow: 0 8px 20px rgba(0,0,0,0.2);
+  margin: 40px auto;
+}
+
+.ex3-text {
+  font-size: 24px;
+  padding: 15px;
+  background: #f3f3f3;
+  color: black;
+  border-radius: 12px;
+  margin: 20px 0;
+}
+
+.ex3-buttons {
+  display: flex;
+  gap: 8px;
+}
+
+.ex3-buttons button {
+  flex: 1;
+  padding: 12px;
+  border: none;
+  border-radius: 10px;
+  background: #007bff;
+  color: white;
+  cursor: pointer;
+}
