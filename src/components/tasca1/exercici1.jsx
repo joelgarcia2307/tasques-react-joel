@@ -1,5 +1,5 @@
 import { useState } from "react";
-import "./Exercici1.css";
+import "./exercici1.css";
 
 function Exercici1() {
 
