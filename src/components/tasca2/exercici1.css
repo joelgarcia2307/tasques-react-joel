@@ -9,3 +9,8 @@ body{
     align-items: center;
     background-color: rgb(0, 0, 0);
 }
+.titol{
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bolder;
+}

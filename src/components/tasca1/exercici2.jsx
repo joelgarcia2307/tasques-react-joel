@@ -7,7 +7,7 @@ function Exercici2() {
 
   return (
     <section className="card">
-      <h1 style={{color: "black"}}>Cercle de Colors</h1>
+      <div class="titol2"><h1>Cercle de Colors</h1></div>
 
       <div className="cercle" style={{ backgroundColor: color }}></div>
 

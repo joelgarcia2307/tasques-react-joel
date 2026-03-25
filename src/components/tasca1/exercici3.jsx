@@ -10,7 +10,7 @@ function Exercici3() {
   return (
     <section className="ex3-card">
 
-      <h1>Format de Text</h1>
+      <div class="h1"><h1>Format de Text</h1></div>
 
       <p
         className="ex3-text"

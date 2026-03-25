@@ -1,5 +1,4 @@
 import { useState } from "react";
-import "./exercici1.css";
 
 import messi from "../../imatges/messi.jpg";
 import neymar from "../../imatges/neymar.jpg";
@@ -23,8 +22,6 @@ function Exercici2() {
 
     return (
         <div style={{display:"flex", alignItems:"center", gap:"20px"}}>
-
-            <h1>IMATGES</h1>
 
             <button onClick={anterior}>⬅</button>
 

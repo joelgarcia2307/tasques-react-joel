@@ -24,7 +24,7 @@ function Exercici1() {
 
   return (
     <section className="card">
-      <h1>Comptador Interactiu</h1>
+      <div class="h1"><h1>Comptador Interactiu</h1></div>
 
       <div id="valor" className="pantalla" style={{ color }}>
         {comptador}

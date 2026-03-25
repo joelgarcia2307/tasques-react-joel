@@ -1,0 +1,14 @@
+.contenidor{
+    color: black;
+}
+
+.contenidor img{
+    width: 80%;
+}
+
+.contenidor button{
+    margin: 10px;
+}
+button{
+    margin: 5px;
+}
