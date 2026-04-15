@@ -1,0 +1,36 @@
+.contenidor {
+  display: grid;
+  gap: 15px;
+  padding: 15px;
+}
+
+.contenidor {
+  grid-template-columns: 1fr;
+}
+
+@media (min-width: 600px) {
+  .contenidor {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (min-width: 1024px) {
+  .contenidor {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
+
+.card {
+  border: 1px solid #ccc;
+  padding: 10px;
+  border-radius: 8px;
+}
+
+.card img {
+  width: 100%;
+  height: auto;
+}
+
+.card button {
+  margin: 5px;
+}
